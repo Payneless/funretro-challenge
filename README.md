@@ -9,16 +9,15 @@
 It's required to have [npm](https://www.npmjs.com/get-npm) installed locally to follow the instructions.
 
 ```shell
-git clone https://github.com/julykaz/funretro-export.git
+git clone https://github.com/Payneless/funretro-challenge
 cd funretro-export
 npm install
-npm start -- "http://funretro.io/board..." "../exported-file.txt"
+npm start -- Link to board url(ex. "http://funretro.io/board...") File to import(ex. "../exported-file.txt")
 ```
 
 ## TODO
 
 - Export card comments
-- More export options (PDF, CSV)
 
 ## Licensing
 
